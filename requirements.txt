@@ -1,0 +1,10 @@
+flask
+flask-cors
+librosa
+numpy
+scipy
+soundfile
+matplotlib
+torch
+torchaudio
+demucs
