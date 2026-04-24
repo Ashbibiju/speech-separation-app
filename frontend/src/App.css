@@ -1,0 +1,16 @@
+.app {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #faf3e0 0%, #e8f4f8 50%, #f0e6ff 100%);
+}
+
+:root {
+  --pastel-cream: #faf3e0;
+  --pastel-blue: #e8f4f8;
+  --pastel-lavender: #f0e6ff;
+  --pastel-pink: #ffe6f0;
+  --pastel-mint: #e6fff0;
+  --pastel-peach: #ffe8e6;
+  --pastel-lime: #f0ffe6;
+  --text-dark: #4a4a4a;
+  --text-muted: #7a7a7a;
+}

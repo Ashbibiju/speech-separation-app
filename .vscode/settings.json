@@ -1,0 +1,13 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/backend/venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/venv": true,
+        "**/__pycache__": true
+    },
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
